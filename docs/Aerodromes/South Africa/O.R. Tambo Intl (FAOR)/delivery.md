@@ -53,16 +53,15 @@
 !!! warning
     Only SIDs which are currently in operation are listed below. SIDs which are suspended will require pilots to instead be given Runway Track.
 
-Runway 03L
+Runway 03L/R
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| APDAK | APDAK1B | FL90 | - |
 | EXOBI | EXOBI1A | FL90 | - |
 | RAGUL | RAGUL3A | 8000ft | - |
 | VASUR | VASUR3A | 8000ft | - |
 | GAV, NESAN | RWY TRK | 8000ft | - |
-| EGMEN | RWY TRK | FL90 | - |
+| EGMEN, APDAK | RWY TRK | FL90 | - |
 
 Runway 21R
 
@@ -71,6 +70,13 @@ Runway 21R
 | RAGUL | RAGUL1D | FL90 | - |
 | GEROX | GEROX1C | 8000ft | - |
 | APDAK, EGMEN, EXOBI, GAV, HGV, LIV, OVALA, VASUR | RWY TRK | 8000ft | - |
+
+Runway 21L
+
+| Fix | SID | Initial Climb | Remarks |
+| :---------: | :---------: | :---------: | :---------: |
+| RAGUL | RWY TRK | FL90 | - |
+| APDAK, EGMEN, EXOBI, GAV, GEROX, HGV, LIV, OVALA, VASUR | RWY TRK | 8000ft | - |
 
 ## Phraseology
 
