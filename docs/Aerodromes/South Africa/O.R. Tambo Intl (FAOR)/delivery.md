@@ -57,8 +57,11 @@ Runway 03L/R
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| GAV, NESAN, VASUR, RAGUL | RWY TRK | 8000ft | - |
-| EGMEN, APDAK, EXOBI| RWY TRK | FL90 | - |
+| VASUR | VASUR3A | 8000ft | - |
+| RAGUL | RAGUL3A | 8000ft | - |
+| EXOBI | EXOBI1A | FL90 | - |
+| GAV, NESAN | RWY TRK | 8000ft | - |
+| EGMEN, APDAK | RWY TRK | FL90 | - |
 
 Runway 21R
 
