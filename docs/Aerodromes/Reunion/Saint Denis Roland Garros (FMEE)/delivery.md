@@ -1,7 +1,7 @@
 # Delivery
 
 !!! info
-    The Roland Garros airport does not have a dedicated Delivery frequency, as such all Delivery responsibilities are assumed by Roland Garros Ground (FMEE_GND).
+    The Saint-Denis Roland Garros airport does not have a dedicated Delivery frequency, as such all Delivery responsibilities are assumed by Roland Garros Ground (FMEE_GND).
 
 ## Departure Procedures
 
@@ -47,14 +47,14 @@ In the event a pilot is unable to comply, one of the conventional SIDs or other 
 
 ## Initial Climb
 
-The initial climb at Roland Garros is 3000ft for RNP SIDs and 11000ft for conventional SIDS.
+The initial climb at Saint-Denis Roland Garros is 3000ft for RNP SIDs and 11000ft for conventional SIDS.
 
 ## Phraseology
 
 !!! info "Delivery Phraseology"
     "(callsign), Roland Garros Ground, cleared to destination (destination), departure (SID), runway (departure runway), initial climb (initial climb altitude)."
 
-**Similar to Mauritius, the Réunion TMA is operated procedurally. This means that no squawks are issued with the IFR clearance. Pilots are expected to squawk 2000 when departing from Roland Garros.**
+**Similar to Mauritius, the Roland Garros TMA is operated procedurally. This means that no squawks are issued with the IFR clearance. Pilots are expected to squawk 2000 when departing from Roland Garros.**
 
 !!! info 
     "Pilots often expect to hear a squawk with the IFR clearance. Pilots shall therefore be notified that the Réunion TMA is operated procedurally and that they are expected to squawk 2000."
