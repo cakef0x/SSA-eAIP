@@ -1,5 +1,8 @@
 # Tower
-The Roland Garros CTR is controlled by the dedicated ATS unit, "Roland Garros Tower" (FMEE_TWR) on 119.400. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Mauritius CTR from GND - 6500ft MSL.
+The Saint-Denis CTR is controlled by the dedicated ATS unit, "Roland Garros Tower" (FMEE_TWR) on 119.400. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Roland Garros CTR from GND - 6500ft MSL.
+
+!!! note
+    The Saint-Denis CTR airspace is designated as Class D, which means that separation services cannot not provided to VFR traffic.
 
 !!! note
     Departure handoffs go to Roland Garros Approach (FMEE_APP) on frequency 127.200.
@@ -8,7 +11,7 @@ The Roland Garros CTR is controlled by the dedicated ATS unit, "Roland Garros To
 
 ### Fixed-Wing Aircraft
 
-  * There are no published VFR departure or arrival routings in and out of the Mauritius CTR for fixed-wing aircraft. Traffic should instead be asked to report overhead specific visual reporting points. (VRPs)
+  * There are no published VFR departure or arrival routings in and out of the Saint-Denis CTR for fixed-wing aircraft. Traffic should instead be asked to report overhead specific visual reporting points. (VRPs)
   * VFR circuits are permitted on both Runways 12/30 and 14/32. The Circuit altitude is 900ft, with circuits away from the terminal buildings.
   * Controllers should avoid extending downwinds significantly to avoid terrain on either side of the field.
   * VFR traffic is not permitted if the cloud ceiling is below 1500ft or if the visibility is less than 5000m.
@@ -22,12 +25,16 @@ The Roland Garros CTR is controlled by the dedicated ATS unit, "Roland Garros To
 | 32 | Right-turn | 900 |
 
 ### VRPs
-| VRP | Coordinates | Geographical Feature |
-| :---------: | :---------: | :---------: | 
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| VRP | Geographical Feature |
+| :---------: | :---------: | 
+| W | La Grande Chaloupe |  
+| W1 | Le Barachois |  
+| EN | "Bois Rouge" factory |  
+| EO | Abeam "Bras Pistolet" estate |  
+| S1 | "Rivière Des Pluies" metallic bridge |  
+| SB | Piton Bénoune | 
+
+![alt text](vrp.png)
 
 !!! info "Circuit Clearance"
     FOREU, hold position, after departure Runway 14, left hand circuits, not above 900ft, report left downwind Runway 12.
