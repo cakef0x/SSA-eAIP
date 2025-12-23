@@ -5,7 +5,7 @@ The Saint-Denis CTR is controlled by the dedicated ATS unit, "Roland Garros Towe
     The Saint-Denis CTR airspace is designated as Class D, which means that separation services cannot not provided to VFR traffic.
 
 !!! note
-    Departure handoffs go to Roland Garros Approach (FMEE_APP) on frequency 127.200.
+    Departure handoffs go to Roland Garros Approach (FMEE_APP) on frequency 127.200. Roland Garros Approach controls the Réunion TMA. 
 
 ## Visual Flight Rules (VFR) Aircraft
 
