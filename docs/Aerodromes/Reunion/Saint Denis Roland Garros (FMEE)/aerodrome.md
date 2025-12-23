@@ -10,7 +10,7 @@ The Saint Denis Roland Garros International Airport is the primary International
 | Elevation | 66ft |
 | Transition Altitude | 12000ft |
 | Transition Level | by ATC (see TL table) |
-| Mag Variation | 18º W |
+| Mag Variation | 19º W |
 
 ## Transition Levels
 
