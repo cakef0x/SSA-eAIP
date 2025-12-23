@@ -1,4 +1,5 @@
 # Ground
+The responsibility of SMC at the Saint-Denis Roland Garros airport falls to the dedicated Ground ATS unit, "Roland Garros Ground" (FMEE_GND) on 121.900 MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway.
 
 ## Visual Flight Rules (VFR) Aircraft.
 On initial call with SMC, the VFR aircraft is expected to provide:
@@ -18,7 +19,7 @@ VFR traffic at Réunion are not required to file a flight plan.
 
 ## Restrictions
 
-Whilst Saint Denis is able to accomodate Code F aircraft (Airbus A380-800, Boeing 747-800s or any aircraft with a wingspan between 65 and 80 metres), these aircraft are fairly restricted in where they are able to operate.
+Whilst Saint-Denis is able to accomodate Code F aircraft (Airbus A380-800, Boeing 747-800s or any aircraft with a wingspan between 65 and 80 metres), these aircraft are fairly restricted in where they are able to operate.
 
 ### Stand Restrictions
 
